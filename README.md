@@ -1,6 +1,8 @@
 # Embedded_C_Programming
 A Embedded C Course mainly targeted for absolute beginners to learn microcontroller programming using 'C Programming Language' 
-##############################################Related Topics###############################################
+
+
+############Related Topics##############
 Some of the critical microcontroller-related 'C' concepts such as
 1. Importance of bitwise operators
 2. Usage of bit manipulation techniques to program MCU peripheral registers
